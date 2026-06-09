@@ -1,0 +1,15 @@
+langchain>=0.3.0
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-huggingface
+chromadb
+faiss-cpu
+sentence-transformers
+ragas
+unstructured[pdf]
+pypdf
+python-dotenv
+streamlit
+fastapi
+uvicorn
